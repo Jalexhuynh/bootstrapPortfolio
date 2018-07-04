@@ -14,12 +14,16 @@ project/
 	public/
 		libs/
 		css/
+		js/ 
 		img/
 	views/
 		comments/
 			comment.jade
 		users/
 		index.jade
+		partials/
+			header.ejs
+			footer.ejs
 	tests/
 		controllers/
 		models/
