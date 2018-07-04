@@ -1,3 +1,218 @@
 body {
-	padding-top: 70px;
+	padding-top: 50px;
+}
+
+/* NAVBAR SECTION */
+.navbar-inverse .navbar-nav .active a {
+	background-color: #0F52BA;
+}
+
+
+.navbar-inverse .navbar-nav li a:hover,
+.navbar-inverse .navbar-nav li a:focus {
+  color: #fff;
+  background-color: rgba(15,82,186,0.5);
+}
+
+.navbar-inverse .navbar-nav .active a:hover,
+.navbar-inverse .navbar-nav .active a:focus {
+  color: #fff;
+  background-color: #4288f0;
+}
+
+.navbar-inverse {
+	background-color: rgba(0,0,0,.5);
+}
+
+.navbar-inverse .navbar-toggle .icon-bar {
+    background-color: rgba(255,255,255,1)
+}
+
+.navbar-inverse .navbar-toggle:hover,
+.navbar-inverse .navbar-toggle:focus {
+    background-color: rgba(15,82,186,0.5);
+}
+
+/* CONTAINER SECTION */
+.container-fluid {
+	margin: 0px;
+}
+
+.container {
+	padding-left: 0px;
+}
+
+.col-xs-3, .col-xs-6 {
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+/* JUMBOTRON SECTION */ 
+#homeSection {
+	background-color: royalblue;
+}
+
+#jumbo-2 {
+	background-color: royalblue;
+}
+
+.jumbotron {
+	min-height: 300px;
+	text-align: center;
+	margin: 0px;
+	padding: 0px;
+	background-position: 0px -50px;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	color: #fff;
+}
+
+.jumbotron h1 {
+	margin: 0px;
+	padding-top: 100px;
+}
+
+/* SECTION BACKGROUND COLORS */
+body, .lightblue, .contact{
+	background-color: #e7f0fd;
+}
+
+/* ABOUT/RESUME SECTION */
+
+#aboutSection {
+	padding-bottom: 50px;
+}
+
+.resume-header{
+	font-family: 'Merriweather', Serif;
+	font-size: 30px;
+	text-align: center;
+}
+
+.section-title{
+	color: #0F52BA;
+	text-transform: uppercase;
+	font-size: 14px;
+	line-height: 50px;
+	padding-left: 15px;
+	cursor: pointer;
+	cursor: hand;
+}
+
+.section-title:hover{
+	background-color:  #d0e1fb;
+}
+
+.section-details{
+	font-weight: bold;
+}
+
+.job-title{
+	font-style: italic;
+}
+
+.dates{
+	text-transform: uppercase;
+	font-size: 12px;
+	color: grey;
+}
+
+.resume-body, .list-body{
+	color: grey;
+}
+
+.list-body{
+	margin-left: 40px;
+	list-style: none;
+
+}
+
+.section-title, .resume-body{
+	font-family: 'Open Sans', 'Arial', Sans-Serif;
+}
+
+.section-details, .job-title{
+	font-family: 'Merriweather', Serif;
+}
+
+/* CONTACT SECTION */ 
+i {
+	color: #0F52BA;
+	margin-right: 20px;
+}
+
+.contact {
+	padding: 100px;
+	padding-bottom: 200px;
+	background-color: #d0e1fb;
+	color: #000;
+}
+
+.contact h4 {
+	font-size: 12px;
+	font-weight: bold;
+	text-transform: uppercase;
+	margin-top: 30px;
+}
+
+.contact img {
+	margin-left: 10px;
+}
+
+/* FOOTER */ 
+footer {
+	background-color: #0F52BA;
+	color: #fff;
+	padding-top: 5px;
+	font-size: 9px;
+}
+
+/* MEDIA QUERIES */
+@Media(max-width: 768px){
+
+	.jumbotron {
+		min-height: 500px;
+		background-size: 1000px 1000px;
+		background-position: -70px 0px;
+	}
+	
+	#jumbo-2 {
+		background-position: 0px 500px;
+	}
+
+	#homeSection h1 {
+	padding-top: 250px;
+	}
+
+	.jumbotron h1 {
+		padding-top: 200px;
+	}
+
+	.container {
+		padding-left: 15px;
+	}
+
+	.container h3 {
+		text-align: center;
+	}
+
+	.contact {
+		padding: 20px;
+	}
+
+	#portfolioSection {
+		margin-bottom: 100px;
+	}
+
+	div .col-sm-6 {
+		margin: 0px;
+		padding: 0px;
+	}
+
+	.contact img {
+		margin: 0px;
+		margin-top: 35px;
+		width: 296px;
+	}
 }
