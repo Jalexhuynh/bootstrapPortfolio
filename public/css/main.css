@@ -55,6 +55,12 @@ body {
 	background-position: 0px -50px;
 }
 
+#portfolioJumbotron {
+	background-image: url(../img/jumbotron2.jpg);
+	min-height: 600px;
+	background-position: 0px -200px;
+}
+
 .jumbotron {
 	min-height: 600px;
 	text-align: center;
@@ -67,17 +73,17 @@ body {
 	background-color: royalblue;
 }
 
-.content {
+.jumbotron h1 {
+	margin: 0px;
+	padding-top: 300px;
+}
+
+#content {
 	padding-top: 200px;
 	margin-right: 50px;
 	text-align: right;
 	text-shadow: 0px 4px 3px rgba(0,0,0,0.2),
 				 0px 8px 10px rgba(0,0,0,0.2);
-}
-
-.jumbotron h1 {
-	margin: 0px;
-	padding-top: 100px;
 }
 
 /* SECTION BACKGROUND COLORS */
@@ -183,7 +189,7 @@ footer {
 /* MEDIA QUERIES */
 @Media(max-width: 768px){
 
-	#homeJumbotron {
+	#homeJumbotron, #portfolioJumbotron {
 		background-position: -300px -50px;
 		min-height: 500px;
 	}
