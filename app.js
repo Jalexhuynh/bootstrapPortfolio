@@ -20,4 +20,6 @@ app.get("/contact", function(req,res) {
 	res.render("contact");
 });
 
-app.listen(3000, () => console.log('Example app listening on port 3000!'))
+app.listen(3000, function() {
+	console.log("Running app on localhost:3000");
+});
