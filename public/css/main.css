@@ -58,7 +58,7 @@ body {
 #portfolioJumbotron {
 	background-image: url(../img/jumbotron2.jpg);
 	min-height: 600px;
-	background-position: 0px -200px;
+	background-position: 50% -200px;
 }
 
 .jumbotron {
@@ -73,13 +73,12 @@ body {
 	background-color: royalblue;
 }
 
-.jumbotron h1 {
+h1 {
 	margin: 0px;
 	padding-top: 300px;
 }
 
 #content {
-	padding-top: 200px;
 	margin-right: 50px;
 	text-align: right;
 	text-shadow: 0px 4px 3px rgba(0,0,0,0.2),
