@@ -84,6 +84,10 @@ body, .lightblue, .contact{
 	padding-bottom: 50px;
 }
 
+.resume-section {
+	display: none;
+}
+
 .resume-header{
 	font-family: 'Merriweather', Serif;
 	font-size: 30px;

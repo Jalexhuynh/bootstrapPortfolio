@@ -1,5 +1,4 @@
 $(document).ready(function(){
-	$(".resume-section").hide();
 	// setBindings();
 	toggleResume();
 });
