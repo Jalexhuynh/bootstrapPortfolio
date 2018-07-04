@@ -11,7 +11,7 @@ body {
 .navbar-inverse .navbar-nav li a:hover,
 .navbar-inverse .navbar-nav li a:focus {
   color: #fff;
-  background-color: rgba(15,82,186,0.5);
+  background-color: rgba(15,82,186,0.2);
 }
 
 .navbar-inverse .navbar-nav .active a:hover,
@@ -30,7 +30,7 @@ body {
 
 .navbar-inverse .navbar-toggle:hover,
 .navbar-inverse .navbar-toggle:focus {
-    background-color: rgba(15,82,186,0.5);
+    background-color: rgba(15,82,186,0.2);
 }
 
 /* CONTAINER SECTION */
@@ -49,6 +49,12 @@ body {
 
 /* JUMBOTRON SECTION */ 
 
+#homeJumbotron {
+	background-image: url(../img/jumbotron.jpg);
+	min-height: 600px;
+	background-position: 0px -50px;
+}
+
 .jumbotron {
 	min-height: 600px;
 	text-align: center;
@@ -59,11 +65,6 @@ body {
 	background-attachment: fixed;
 	color: #fff;
 	background-color: royalblue;
-}
-
-#homeJumbotron {
-	background-image: url("../img/jumbotron.jpg");
-	min-height: 600px;
 }
 
 .content {
@@ -183,12 +184,17 @@ footer {
 @Media(max-width: 768px){
 
 	#homeJumbotron {
-		background-position: -200px 0px;
+		background-position: -300px -50px;
+		min-height: 500px;
+	}
+
+	.content {
+		padding-top: 100px;
 	}
 
 	.jumbotron {
 		min-height: 200px;
-		background-position: -100px 0px;
+		background-position: -120px 0px;
 	}
 	
 	#jumbo-2 {

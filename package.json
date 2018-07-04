@@ -9,6 +9,7 @@
   "author": "Justin Huynh",
   "license": "ISC",
   "dependencies": {
+    "aos": "^2.3.2",
     "ejs": "^2.6.1",
     "express": "^4.16.3"
   }
