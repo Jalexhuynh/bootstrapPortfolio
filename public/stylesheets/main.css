@@ -1,5 +1,6 @@
 body {
 	padding-top: 50px;
+	padding-bottom: 30px;
 }
 
 /* NAVBAR SECTION */
@@ -160,9 +161,10 @@ i {
 
 /* FOOTER */ 
 footer {
+	height: 30px;
+	line-height: 30px;
 	background-color: #0F52BA;
 	color: #fff;
-	padding-top: 5px;
 	font-size: 9px;
 }
 
