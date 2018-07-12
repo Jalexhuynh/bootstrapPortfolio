@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"backgrou",
+				"background-image\tproperty"
+			],
+			[
+				"align",
+				"align-items\tproperty"
+			],
+			[
+				"text-",
+				"text-align\tproperty"
+			],
+			[
 				"te",
 				"text-align\tproperty"
 			],
@@ -152,10 +164,6 @@
 				"min-width"
 			],
 			[
-				"align",
-				"align-items"
-			],
-			[
 				"backg",
 				"background-position"
 			],
@@ -302,10 +310,6 @@
 			[
 				"pad",
 				"padding-top"
-			],
-			[
-				"backgrou",
-				"background-color"
 			],
 			[
 				"cont",
@@ -510,31 +514,11 @@
 			[
 				"ATT",
 				"ATTRIBUTE_1"
-			],
-			[
-				"Mo",
-				"ModuleName"
 			]
 		]
 	},
 	"buffers":
 	[
-		{
-			"file": "views/contact.ejs",
-			"settings":
-			{
-				"buffer_size": 1086,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "public/css/main.css",
-			"settings":
-			{
-				"buffer_size": 3509,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -595,22 +579,22 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
-	"expanded_folders":
-	[
-		"/Users/justinhuynh/Documents/Coding Practice/Udemy Courses/Web Development/TerminalPractice",
-		"/Users/justinhuynh/Documents/Coding Practice/Udemy Courses/Web Development/TerminalPractice/public",
-		"/Users/justinhuynh/Documents/Coding Practice/Udemy Courses/Web Development/TerminalPractice/public/css",
-		"/Users/justinhuynh/Documents/Coding Practice/Udemy Courses/Web Development/TerminalPractice/public/img",
-		"/Users/justinhuynh/Documents/Coding Practice/Udemy Courses/Web Development/TerminalPractice/public/js",
-		"/Users/justinhuynh/Documents/Coding Practice/Udemy Courses/Web Development/TerminalPractice/views",
-		"/Users/justinhuynh/Documents/Coding Practice/Udemy Courses/Web Development/TerminalPractice/views/partials"
-	],
 	"file_history":
 	[
+		"/Users/justinhuynh/Documents/Coding Practice/Udemy Courses/Web Development/SemanticUI Site/views/partials/footer.ejs",
+		"/Users/justinhuynh/Documents/Coding Practice/Udemy Courses/Web Development/SemanticUI Site/views/partials/header.ejs",
+		"/Users/justinhuynh/Documents/Coding Practice/Udemy Courses/Web Development/SemanticUI Site/public/css/style.css",
+		"/Users/justinhuynh/Documents/Coding Practice/Udemy Courses/Web Development/SemanticUI Site/app.js",
+		"/Users/justinhuynh/Documents/Coding Practice/Udemy Courses/Web Development/SemanticUI Site/views/contact.ejs",
+		"/Users/justinhuynh/Documents/Coding Practice/Udemy Courses/Web Development/SemanticUI Site/views/portfolio.ejs",
+		"/Users/justinhuynh/Documents/Coding Practice/Udemy Courses/Web Development/SemanticUI Site/views/about.ejs",
+		"/Users/justinhuynh/Documents/Coding Practice/Udemy Courses/Web Development/SemanticUI Site/views/index.ejs",
+		"/Users/justinhuynh/Documents/Coding Practice/Udemy Courses/Web Development/SemanticUI Site/public/js/script.js",
+		"/Users/justinhuynh/Documents/Coding Practice/Udemy Courses/Web Development/TerminalPractice/views/about.ejs",
+		"/Users/justinhuynh/Documents/Coding Practice/Udemy Courses/Web Development/SemanticUI Site/package.json",
 		"/Users/justinhuynh/Documents/Coding Practice/Udemy Courses/Web Development/TerminalPractice/views/partials/header.ejs",
 		"/Users/justinhuynh/Documents/Coding Practice/Udemy Courses/Web Development/TerminalPractice/views/portfolio.ejs",
 		"/Users/justinhuynh/Documents/Coding Practice/Udemy Courses/Web Development/TerminalPractice/views/home.ejs",
-		"/Users/justinhuynh/Documents/Coding Practice/Udemy Courses/Web Development/TerminalPractice/views/about.ejs",
 		"/Users/justinhuynh/Documents/Coding Practice/Udemy Courses/Web Development/TerminalPractice/public/css/main.css",
 		"/Users/justinhuynh/Documents/Coding Practice/huynhjustin.com bootstrap/index.html",
 		"/Users/justinhuynh/Documents/Coding Practice/Udemy Courses/Web Development/TerminalPractice/views/partials/footer.ejs",
@@ -724,17 +708,7 @@
 		"/D/Users/Justin Huynh/Desktop/Socal Mononofu Bootstrap/Site 1.5 - 12.11.17/mcz/takagi-reni.html",
 		"/D/Users/Justin Huynh/Desktop/Socal Mononofu Bootstrap/Site 1.5 - 12.11.17/events.html",
 		"/D/Users/Justin Huynh/Desktop/Socal Mononofu Bootstrap/Site 1.5 - 12.11.17/members.html",
-		"/D/Users/Justin Huynh/Desktop/Socal Mononofu Bootstrap/Site 1.5 - 12.11.17/mcz.html",
-		"/D/Users/Justin Huynh/Desktop/Socal Mononofu Bootstrap/Site 1.5 - 12.11.17/about.html",
-		"/D/Users/Justin Huynh/Desktop/Socal Mononofu Bootstrap/Site 1.5 - 12.11.17/contact.html",
-		"/D/Users/Justin Huynh/Desktop/Socal Mononofu Bootstrap/Site 1.4 - 11.17.17/js/app.js",
-		"/D/Users/Justin Huynh/Desktop/Socal Mononofu Bootstrap/Site 1.4 - 11.17.17/css/style.css",
-		"/D/Users/Justin Huynh/Desktop/Socal Mononofu Bootstrap/Site 1.4 - 11.17.17/css/contact-style.css",
-		"/D/Users/Justin Huynh/Desktop/Socal Mononofu Bootstrap/Site 1.4 - 11.17.17/contact.html",
-		"/D/Users/Justin Huynh/Desktop/Socal Mononofu Bootstrap/Site 1.4 - 11.17.17/mcz/tamai-shiori.html",
-		"/D/Users/Justin Huynh/Desktop/Socal Mononofu Bootstrap/Site 1.4 - 11.17.17/mcz/takagi-reni.html",
-		"/D/Users/Justin Huynh/Desktop/Socal Mononofu Bootstrap/Site 1.4 - 11.17.17/mcz/sasaki-ayaka.html",
-		"/D/Users/Justin Huynh/Desktop/Socal Mononofu Bootstrap/Site 1.4 - 11.17.17/mcz/momota-kanako.html"
+		"/D/Users/Justin Huynh/Desktop/Socal Mononofu Bootstrap/Site 1.5 - 12.11.17/mcz.html"
 	],
 	"find":
 	{
@@ -752,11 +726,6 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"data-aos=\"fade-right\"",
-			"footer",
-			"resume",
-			"resume-section",
-			"body"
 		],
 		"highlight": false,
 		"in_selection": false,
@@ -774,68 +743,8 @@
 	"groups":
 	[
 		{
-			"selected": 1,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "views/contact.ejs",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1086,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								347,
-								347
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/EJS 2/EJS.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "public/css/main.css",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 3509,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"color_scheme": "Packages/User/Color Highlighter/themes/Tomorrow-Night-Eighties.tmTheme",
-							"syntax": "Packages/CSS/CSS.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -879,7 +788,7 @@
 		"height": 0.0
 	},
 	"pinned_build_system": "",
-	"project": "TerminalPractice.sublime-project",
+	"project": "SemanticUISite.sublime-project",
 	"replace":
 	{
 		"height": 44.0
