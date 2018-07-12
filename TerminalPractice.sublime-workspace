@@ -528,10 +528,11 @@
 			}
 		},
 		{
-			"file": "public/css/main.css",
+			"file": "README.md",
 			"settings":
 			{
-				"buffer_size": 3509,
+				"buffer_size": 538,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		}
@@ -808,26 +809,24 @@
 				},
 				{
 					"buffer": 1,
-					"file": "public/css/main.css",
-					"semi_transient": true,
+					"file": "README.md",
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3509,
+						"buffer_size": 538,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								244,
+								244
 							]
 						],
 						"settings":
 						{
-							"color_scheme": "Packages/User/Color Highlighter/themes/Tomorrow-Night-Eighties.tmTheme",
-							"syntax": "Packages/CSS/CSS.sublime-syntax",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
